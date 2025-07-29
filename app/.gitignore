@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Python logs
+*.log
+
+# IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS
+.DS_Store
+
+# JWT secrets or local settings (if applicable)
+*.env
+.env.*
+secrets.json
+
+# Ariadne GraphQL cache
+*.graphql.py
+
+# Pytest
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# Pip
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Misc
+*.bak
+*.swp

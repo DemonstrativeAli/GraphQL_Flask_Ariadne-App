@@ -1,0 +1,6 @@
+ariadne
+flask
+sqlalchemy
+passlib[bcrypt]
+python-jose
+python-dotenv    
